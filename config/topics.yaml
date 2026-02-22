@@ -1,0 +1,17 @@
+topics:
+  - name: Ai Models
+    keywords: 
+      - "GPT"
+      - "Claude"
+      - "Gemini"
+      - "LLM"
+  - name: AI Research
+    keywords: 
+      - "machine learning"
+      - "deep learning"
+      - "neural network"
+  - name: AI Applications
+    keywords:
+      - "Agent"
+      - "Autonomous"
+      - "Copilot"
